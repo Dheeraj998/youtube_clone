@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It is deployed with firebase https://clone-27e43.firebaseapp.com.
+Front end using reactjs.
+#Used important commands
+firebase init
+build
+npm run build
+firebase deploy
+
+
 ## Available Scripts
 
 In the project directory, you can run:
